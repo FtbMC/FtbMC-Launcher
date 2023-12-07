@@ -1,11 +1,6 @@
 {
   "version": "1.0.0",
   "rss": "https://raw.githubusercontent.com/Demon43222/ftbmclauncher/main/rss.rss",
-  "discord": {
-    "clientId": "1086936373057040395",
-    "smallImageText": "Change me through Nebula",
-    "smallImageKey": "big"
-  },
   "servers": [
     {
       "id": "HyPixel-1.20",
