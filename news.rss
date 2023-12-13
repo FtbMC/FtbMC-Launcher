@@ -1,0 +1,28 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<title>
+<![CDATA[Title main]]>
+</title>
+<link>https://github.com/FtbMC/FtbMC-Launcher</link>
+<description>
+<![CDATA[ opis main]]>
+</description>
+<webMaster>contact@ftbmc.eu (Demciak)</webMaster>
+<language>en-en</language>
+<ttl>120</ttl>
+<item>
+<title>
+<![CDATA[ tytul drugi ]]>
+</title>
+<description>
+<![CDATA[ opis <p>opis cos</p> <ul> <li>cos w opisie z kropka</li> <li>2 kropka</li></ul> <p>Zakonczenie GLHF</p> ]]>
+</description>
+<pubDate>Fri, 08 Dec 2023 10:39:23 GMT</pubDate>
+<guid isPermaLink="false">https://github.com/FtbMC/FtbMC-Launcher</guid>
+<link>https://github.com/FtbMC/FtbMC-Launcher</link>
+<author>
+<![CDATA[ Demciak ]]>
+</author>
+</item>
+</channel>
+</rss>
