@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "rss": "https://raw.githubusercontent.com/FtbMC/FtbMC-Launcher/main/news.rss",
+  "rss": "https://raw.githubusercontent.com/Demon43222/ftbmclauncher/main/rss.rss",
   "servers": [
     {
       "id": "HyPixel-1.20",
