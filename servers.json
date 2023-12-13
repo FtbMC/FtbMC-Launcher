@@ -1,6 +1,11 @@
 {
   "version": "1.0.0",
   "rss": "https://raw.githubusercontent.com/Demon43222/ftbmclauncher/main/rss.rss",
+  "discord": {
+      "clientId": "1182377010530619575",
+      "smallImageText": "test",
+      "smallImageKey": "img"
+  },
   "servers": [
     {
       "id": "HyPixel-1.20",
